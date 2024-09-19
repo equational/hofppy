@@ -1,4 +1,4 @@
-# fpinpy
+# hofppy
 
 Example and trial higher order functional programming in Python.
 Three goals:
@@ -8,4 +8,4 @@ Three goals:
 * Understand how best to package these concepts as reusable library component.
 
 History:
-* fpinpyV01: building state/maybe monads bottom up. (based on my F# presentation https://www.youtube.com/watch?v=opm3KfHLqcI )
+* hofppy01.ipynb: building state/maybe/free monads bottom up. (initially based on my F# presentation https://www.youtube.com/watch?v=opm3KfHLqcI )
