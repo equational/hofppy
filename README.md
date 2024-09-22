@@ -9,3 +9,4 @@ Three goals:
 
 History:
 * hofppy01.ipynb: building state/maybe/free monads bottom up. (initially based on my F# presentation https://www.youtube.com/watch?v=opm3KfHLqcI )
+* hofppy02.ipynb: caputure monadic bind variable with pointfree accessors, and check that JAX's JIT is happy with this.
